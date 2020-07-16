@@ -1,1 +1,3 @@
-<a href="https://josephtran.io"><img width="100%" src="https://josephtran.io/images/header.gif"></a>
+<p align="center">
+    <a href="https://josephtran.io"><img src="https://raw.githubusercontent.com/JotraN/JotraN/master/images/header.gif"></a>
+</p>
